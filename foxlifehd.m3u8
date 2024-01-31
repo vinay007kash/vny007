@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=526151&extension=ts
